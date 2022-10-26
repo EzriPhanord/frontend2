@@ -1,0 +1,35 @@
+.App {
+}
+body {
+  background-color: #090929;
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+}
+h1 {
+  color: whitesmoke;
+  background-color: #1c2833;
+}
+h2 {
+  color: whitesmoke;
+}
+input[type="text"] {
+  text-align: center;
+  padding: 5px 10px;
+  background: white;
+  border-radius: 20px;
+  border: none;
+}
+
+button {
+  text-align: center;
+  padding: 5px 10px;
+  background: cyan;
+  border-radius: 20px;
+  border: none;
+}
+div[type="text"] {
+  text-align: center;
+  padding: 5px 5px;
+  background: rgb(12, 12, 94);
+  border-radius: 20px;
+}
